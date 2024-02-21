@@ -3,9 +3,6 @@ This is a script for the popular game bot tool Xenobot used for the game Tibia. 
 
 I developed this script prior to and during my first year in college. The script initially started as a fun project on unofficial game servers, after 7 major updates I began selling the script for $5 to about 50 paying users while providing support and future updates.  
 
-Video Showcase
-https://www.youtube.com/watch?v=CBgf5q4MfmU
-
 ## Notable Features:  
 * Proximity based healing - Each client would scan for nearby clients and notify them of their current mana if they were wounded. If a client was full health it would heal one of its neighbors who had the lowest health.  
 * Automated Onscreen attacks - The player could set peoplet to either attack or "Paralyze". If they came onscreen they would automatically be attacked.  
